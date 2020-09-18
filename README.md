@@ -1,7 +1,7 @@
 ## How to create your own?
 
-> Fork this repository
-> Download Github Desktop from https://desktop.github.com/
+* Fork this repository
+* Download Github Desktop from https://desktop.github.com/
 > Clone above repository using Desktop Github
 > Edit index.html locally
 > Commit To Master once done with editing

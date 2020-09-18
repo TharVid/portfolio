@@ -8,4 +8,4 @@
 * Go to setting and publish your page
 * All done
 
-If willing to buy a Coffee to me write at sunilk@ieee.org
+If willing to buy me a Coffee write at sunilk@ieee.org

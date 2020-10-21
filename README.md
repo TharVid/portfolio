@@ -8,12 +8,19 @@
 * Go to setting and publish your page
 * All done
 Available Functions
-1. Photo
-2. About me
-3. Projects
-Proposed Changes
-1. Licenses and Certifications
-2. Volunteering Experience
-3. Reviews and recommendations
-4. Skills bar
+
+1.portofolio Image
+2.content writing
+Proposed functions
+1.Voulunterring
+
+###Available Functions
+1. Profile Picture
+2. Qualfications
+
+Proposed Functions
+1. Extra Necessary Information
+2. Short Tutorial Video
+
+
 If willing to buy me a Coffee write at sunilk@ieee.org

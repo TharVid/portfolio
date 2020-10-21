@@ -13,6 +13,7 @@ Available Functions
 2.content writing
 Proposed functions
 1.Voulunterring
+2.Add resume
 
 ###Available Functions
 1. Profile Picture

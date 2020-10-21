@@ -8,6 +8,7 @@
 * Go to setting and publish your page
 * All done
 Available Functions
+
 1.portofolio Image
 2.content writing
 Proposed functions

@@ -7,12 +7,14 @@
 * Commit To Master once done with editing
 * Go to setting and publish your page
 * All done
-Available Functions-
-1.
-2.
 
-1.
-2.
+###Available Functions
+1. Profile Picture
+2. Qualfications
+
+Proposed Functions
+1. Extra Necessary Information
+2. Short Tutorial Video
 
 
 If willing to buy me a Coffee write at sunilk@ieee.org
